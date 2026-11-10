@@ -1,7 +1,7 @@
 # Solidity Smart Contract Assignment
 
-**Name   :** Thanh Quang  
-**Roll No:** 2026-BC-01  
+**Name   :** Le Thanh Quang  
+**Roll No:** 29211120739  
 **Email  :** thanhquangk2@gmail.com  
 **Repository:** [https://github.com/thanhquangdtu/solidity-smart-contracts-assignment](https://github.com/thanhquangdtu/solidity-smart-contracts-assignment)
 
